@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C# Co Ban\\Bai06\\Program.cs",
               "RelativeDocumentMoniker": "Bai06\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai06\\Program.cs",
-              "RelativeToolTip": "Bai06\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAAAEsAAAALAAAAAAAAAA==",
+              "ToolTip": "E:\\C# Co Ban\\Bai06\\Program.cs*",
+              "RelativeToolTip": "Bai06\\Program.cs*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T12:35:14.782Z",
               "EditorCaption": ""

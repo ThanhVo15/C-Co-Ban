@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.AssemblyInfo.cs
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.sourcelink.json
+E:\C# Co Ban\Bai06\bin\Debug\net8.0\Bai06.exe
+E:\C# Co Ban\Bai06\bin\Debug\net8.0\Bai06.deps.json
+E:\C# Co Ban\Bai06\bin\Debug\net8.0\Bai06.runtimeconfig.json
+E:\C# Co Ban\Bai06\bin\Debug\net8.0\Bai06.dll
+E:\C# Co Ban\Bai06\bin\Debug\net8.0\Bai06.pdb
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.dll
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\refint\Bai06.dll
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.pdb
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\Bai06.genruntimeconfig.cache
+E:\C# Co Ban\Bai06\obj\Debug\net8.0\ref\Bai06.dll

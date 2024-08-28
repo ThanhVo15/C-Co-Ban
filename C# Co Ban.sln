@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Kiểu dữ liệu,Biến và biểu thức", "03 Kiểu dữ liệu,Biến và biểu thức\03 Kiểu dữ liệu,Biến và biểu thức.csproj", "{B19096E3-3753-4F1A-A6D2-EFF0295CF079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai04", "Bai04\Bai04.csproj", "{1948AD52-7433-4CC1-9F00-0107E072C1FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai06", "Bai06\Bai06.csproj", "{9A436AAD-4A20-45B0-AE7D-63BF79BEFDC6}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19096E3-3753-4F1A-A6D2-EFF0295CF079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19096E3-3753-4F1A-A6D2-EFF0295CF079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19096E3-3753-4F1A-A6D2-EFF0295CF079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19096E3-3753-4F1A-A6D2-EFF0295CF079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1948AD52-7433-4CC1-9F00-0107E072C1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1948AD52-7433-4CC1-9F00-0107E072C1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1948AD52-7433-4CC1-9F00-0107E072C1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1948AD52-7433-4CC1-9F00-0107E072C1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A436AAD-4A20-45B0-AE7D-63BF79BEFDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A436AAD-4A20-45B0-AE7D-63BF79BEFDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A436AAD-4A20-45B0-AE7D-63BF79BEFDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A436AAD-4A20-45B0-AE7D-63BF79BEFDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

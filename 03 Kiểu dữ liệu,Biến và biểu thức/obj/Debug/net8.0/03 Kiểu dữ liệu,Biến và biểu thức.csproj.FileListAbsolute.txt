@@ -1,0 +1,15 @@
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\bin\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.exe
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\bin\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.deps.json
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\bin\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.runtimeconfig.json
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\bin\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.dll
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\bin\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.pdb
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.AssemblyInfoInputs.cache
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.AssemblyInfo.cs
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.sourcelink.json
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.dll
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\refint\03 Kiểu dữ liệu,Biến và biểu thức.dll
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.pdb
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\03 Kiểu dữ liệu,Biến và biểu thức.genruntimeconfig.cache
+E:\C# Co Ban\03 Kiểu dữ liệu,Biến và biểu thức\obj\Debug\net8.0\ref\03 Kiểu dữ liệu,Biến và biểu thức.dll
