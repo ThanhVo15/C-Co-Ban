@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai115 - List\bin\Debug\net8.0\Bai15 - List.exe
+E:\C# Co Ban\Bai115 - List\bin\Debug\net8.0\Bai15 - List.deps.json
+E:\C# Co Ban\Bai115 - List\bin\Debug\net8.0\Bai15 - List.runtimeconfig.json
+E:\C# Co Ban\Bai115 - List\bin\Debug\net8.0\Bai15 - List.dll
+E:\C# Co Ban\Bai115 - List\bin\Debug\net8.0\Bai15 - List.pdb
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.AssemblyInfo.cs
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.sourcelink.json
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.dll
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\refint\Bai15 - List.dll
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.pdb
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\Bai15 - List.genruntimeconfig.cache
+E:\C# Co Ban\Bai115 - List\obj\Debug\net8.0\ref\Bai15 - List.dll

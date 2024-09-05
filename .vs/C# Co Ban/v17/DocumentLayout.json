@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\C# Co Ban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8630248-1453-44D1-8605-E5D68BFB5DD9}|Bai12\\Bai12.csproj|e:\\c# co ban\\bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8630248-1453-44D1-8605-E5D68BFB5DD9}|Bai12\\Bai12.csproj|solutionrelative:bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65B567CA-9FCB-42F0-877B-2525D202C606}|Bai16 - Dictionary\\Bai16 - Dictionary.csproj|e:\\c# co ban\\bai16 - dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B567CA-9FCB-42F0-877B-2525D202C606}|Bai16 - Dictionary\\Bai16 - Dictionary.csproj|solutionrelative:bai16 - dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84332D23-33AF-4EFA-AB5C-C1BC9276D041}|Bai10\\Bai10.csproj|e:\\c# co ban\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84332D23-33AF-4EFA-AB5C-C1BC9276D041}|Bai10\\Bai10.csproj|solutionrelative:bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F8DBDE2-0D4B-48E5-B8B3-84EB5C593004}|Bai13\\Bai13.csproj|e:\\c# co ban\\bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8DBDE2-0D4B-48E5-B8B3-84EB5C593004}|Bai13\\Bai13.csproj|solutionrelative:bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54410328-30EC-4FCF-83D7-627881BC938C}|Bai115 - List\\Bai15 - List.csproj|e:\\c# co ban\\bai115 - list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54410328-30EC-4FCF-83D7-627881BC938C}|Bai115 - List\\Bai15 - List.csproj|solutionrelative:bai115 - list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai10\\Program.cs",
-              "RelativeDocumentMoniker": "Bai10\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai10\\Program.cs",
-              "RelativeToolTip": "Bai10\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDIAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai16 - Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Bai16 - Dictionary\\Program.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai16 - Dictionary\\Program.cs",
+              "RelativeToolTip": "Bai16 - Dictionary\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:27:20.115Z",
+              "WhenOpened": "2024-09-05T18:18:59.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai12\\Program.cs",
-              "RelativeDocumentMoniker": "Bai12\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai12\\Program.cs",
-              "RelativeToolTip": "Bai12\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai115 - List\\Program.cs",
+              "RelativeDocumentMoniker": "Bai115 - List\\Program.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai115 - List\\Program.cs",
+              "RelativeToolTip": "Bai115 - List\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:27:05.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-05T17:48:18.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai13\\Program.cs",
+              "RelativeDocumentMoniker": "Bai13\\Program.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai13\\Program.cs",
+              "RelativeToolTip": "Bai13\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:10:33.528Z"
             }
           ]
         }

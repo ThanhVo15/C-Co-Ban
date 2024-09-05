@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.AssemblyInfo.cs
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.sourcelink.json
+E:\C# Co Ban\Bai16 - Dictionary\bin\Debug\net8.0\Bai16 - Dictionary.exe
+E:\C# Co Ban\Bai16 - Dictionary\bin\Debug\net8.0\Bai16 - Dictionary.deps.json
+E:\C# Co Ban\Bai16 - Dictionary\bin\Debug\net8.0\Bai16 - Dictionary.runtimeconfig.json
+E:\C# Co Ban\Bai16 - Dictionary\bin\Debug\net8.0\Bai16 - Dictionary.dll
+E:\C# Co Ban\Bai16 - Dictionary\bin\Debug\net8.0\Bai16 - Dictionary.pdb
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.dll
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\refint\Bai16 - Dictionary.dll
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.pdb
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\Bai16 - Dictionary.genruntimeconfig.cache
+E:\C# Co Ban\Bai16 - Dictionary\obj\Debug\net8.0\ref\Bai16 - Dictionary.dll

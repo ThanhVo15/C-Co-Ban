@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai16 - Dictionary/1.0.0": {
+        "runtime": {
+          "Bai16 - Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai16 - Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
