@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.AssemblyInfo.cs
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.sourcelink.json
+E:\C# Co Ban\Bai17-Project Thuc Te\bin\Debug\net8.0\Bai17-Project Thuc Te.exe
+E:\C# Co Ban\Bai17-Project Thuc Te\bin\Debug\net8.0\Bai17-Project Thuc Te.deps.json
+E:\C# Co Ban\Bai17-Project Thuc Te\bin\Debug\net8.0\Bai17-Project Thuc Te.runtimeconfig.json
+E:\C# Co Ban\Bai17-Project Thuc Te\bin\Debug\net8.0\Bai17-Project Thuc Te.dll
+E:\C# Co Ban\Bai17-Project Thuc Te\bin\Debug\net8.0\Bai17-Project Thuc Te.pdb
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.dll
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\refint\Bai17-Project Thuc Te.dll
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.pdb
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\Bai17-Project Thuc Te.genruntimeconfig.cache
+E:\C# Co Ban\Bai17-Project Thuc Te\obj\Debug\net8.0\ref\Bai17-Project Thuc Te.dll

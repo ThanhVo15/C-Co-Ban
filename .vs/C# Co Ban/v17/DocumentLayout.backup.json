@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\C# Co Ban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65B567CA-9FCB-42F0-877B-2525D202C606}|Bai16 - Dictionary\\Bai16 - Dictionary.csproj|e:\\c# co ban\\bai16 - dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B567CA-9FCB-42F0-877B-2525D202C606}|Bai16 - Dictionary\\Bai16 - Dictionary.csproj|solutionrelative:bai16 - dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F8DBDE2-0D4B-48E5-B8B3-84EB5C593004}|Bai13\\Bai13.csproj|e:\\c# co ban\\bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F8DBDE2-0D4B-48E5-B8B3-84EB5C593004}|Bai13\\Bai13.csproj|solutionrelative:bai13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54410328-30EC-4FCF-83D7-627881BC938C}|Bai115 - List\\Bai15 - List.csproj|e:\\c# co ban\\bai115 - list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54410328-30EC-4FCF-83D7-627881BC938C}|Bai115 - List\\Bai15 - List.csproj|solutionrelative:bai115 - list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\classtestparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\classtestparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +38,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Bai19 - Class\\KhachHang.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\KhachHang.cs*",
+              "RelativeToolTip": "Bai19 - Class\\KhachHang.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T16:57:54.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai16 - Dictionary\\Program.cs",
-              "RelativeDocumentMoniker": "Bai16 - Dictionary\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai16 - Dictionary\\Program.cs*",
-              "RelativeToolTip": "Bai16 - Dictionary\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\Program.cs",
+              "RelativeDocumentMoniker": "Bai19 - Class\\Program.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\Program.cs",
+              "RelativeToolTip": "Bai19 - Class\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T18:18:59.321Z",
+              "WhenOpened": "2024-09-06T11:15:16.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai115 - List\\Program.cs",
-              "RelativeDocumentMoniker": "Bai115 - List\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai115 - List\\Program.cs",
-              "RelativeToolTip": "Bai115 - List\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwD0AAAABAAAAAAAAAA==",
+              "Title": "ClassTestParams.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\ClassTestParams.cs",
+              "RelativeDocumentMoniker": "Bai19 - Class\\ClassTestParams.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\ClassTestParams.cs",
+              "RelativeToolTip": "Bai19 - Class\\ClassTestParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T17:48:18.631Z"
+              "WhenOpened": "2024-09-06T16:44:37.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai13\\Program.cs",
-              "RelativeDocumentMoniker": "Bai13\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai13\\Program.cs",
-              "RelativeToolTip": "Bai13\\Program.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwH4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\SanPham.cs",
+              "RelativeDocumentMoniker": "Bai19 - Class\\SanPham.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\SanPham.cs",
+              "RelativeToolTip": "Bai19 - Class\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T09:10:33.528Z"
+              "WhenOpened": "2024-09-06T16:38:38.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Bai19 - Class\\SinhVien.cs",
+              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\SinhVien.cs",
+              "RelativeToolTip": "Bai19 - Class\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:16:50.849Z",
+              "EditorCaption": ""
             }
           ]
         }
