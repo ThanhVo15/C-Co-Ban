@@ -1,0 +1,17 @@
+E:\C# Co Ban\1. Bài Tập Họ Tên\bin\Debug\net8.0-windows\1. Bài Tập Họ Tên.exe
+E:\C# Co Ban\1. Bài Tập Họ Tên\bin\Debug\net8.0-windows\1. Bài Tập Họ Tên.deps.json
+E:\C# Co Ban\1. Bài Tập Họ Tên\bin\Debug\net8.0-windows\1. Bài Tập Họ Tên.runtimeconfig.json
+E:\C# Co Ban\1. Bài Tập Họ Tên\bin\Debug\net8.0-windows\1. Bài Tập Họ Tên.dll
+E:\C# Co Ban\1. Bài Tập Họ Tên\bin\Debug\net8.0-windows\1. Bài Tập Họ Tên.pdb
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\_1._Bài_Tập_Họ_Tên.Form1.resources
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.csproj.GenerateResource.cache
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.AssemblyInfoInputs.cache
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.AssemblyInfo.cs
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.sourcelink.json
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.dll
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\refint\1. Bài Tập Họ Tên.dll
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.pdb
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\1. Bài Tập Họ Tên.genruntimeconfig.cache
+E:\C# Co Ban\1. Bài Tập Họ Tên\obj\Debug\net8.0-windows\ref\1. Bài Tập Họ Tên.dll

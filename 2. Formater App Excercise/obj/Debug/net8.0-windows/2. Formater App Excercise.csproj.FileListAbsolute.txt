@@ -1,0 +1,17 @@
+E:\C# Co Ban\2. Formater App Excercise\bin\Debug\net8.0-windows\2. Formater App Excercise.exe
+E:\C# Co Ban\2. Formater App Excercise\bin\Debug\net8.0-windows\2. Formater App Excercise.deps.json
+E:\C# Co Ban\2. Formater App Excercise\bin\Debug\net8.0-windows\2. Formater App Excercise.runtimeconfig.json
+E:\C# Co Ban\2. Formater App Excercise\bin\Debug\net8.0-windows\2. Formater App Excercise.dll
+E:\C# Co Ban\2. Formater App Excercise\bin\Debug\net8.0-windows\2. Formater App Excercise.pdb
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\_2._Formater_App_Excercise.Form1.resources
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.csproj.GenerateResource.cache
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.AssemblyInfoInputs.cache
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.AssemblyInfo.cs
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.sourcelink.json
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.dll
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\refint\2. Formater App Excercise.dll
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.pdb
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\2. Formater App Excercise.genruntimeconfig.cache
+E:\C# Co Ban\2. Formater App Excercise\obj\Debug\net8.0-windows\ref\2. Formater App Excercise.dll

@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.AssemblyInfo.cs
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.sourcelink.json
+E:\C# Co Ban\Bai21-ProjectThucTe\bin\Debug\net8.0\Bai21-ProjectThucTe.exe
+E:\C# Co Ban\Bai21-ProjectThucTe\bin\Debug\net8.0\Bai21-ProjectThucTe.deps.json
+E:\C# Co Ban\Bai21-ProjectThucTe\bin\Debug\net8.0\Bai21-ProjectThucTe.runtimeconfig.json
+E:\C# Co Ban\Bai21-ProjectThucTe\bin\Debug\net8.0\Bai21-ProjectThucTe.dll
+E:\C# Co Ban\Bai21-ProjectThucTe\bin\Debug\net8.0\Bai21-ProjectThucTe.pdb
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.dll
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\refint\Bai21-ProjectThucTe.dll
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.pdb
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\Bai21-ProjectThucTe.genruntimeconfig.cache
+E:\C# Co Ban\Bai21-ProjectThucTe\obj\Debug\net8.0\ref\Bai21-ProjectThucTe.dll

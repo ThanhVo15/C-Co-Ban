@@ -1,0 +1,18 @@
+E:\C# Co Ban\4. DateTimePicker\bin\Debug\net8.0-windows\4. DateTimePicker.exe
+E:\C# Co Ban\4. DateTimePicker\bin\Debug\net8.0-windows\4. DateTimePicker.deps.json
+E:\C# Co Ban\4. DateTimePicker\bin\Debug\net8.0-windows\4. DateTimePicker.runtimeconfig.json
+E:\C# Co Ban\4. DateTimePicker\bin\Debug\net8.0-windows\4. DateTimePicker.dll
+E:\C# Co Ban\4. DateTimePicker\bin\Debug\net8.0-windows\4. DateTimePicker.pdb
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\_4._DateTimePicker.frmErrorProvider.resources
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\_4._DateTimePicker.Properties.Resources.resources
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.csproj.GenerateResource.cache
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.AssemblyInfoInputs.cache
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.AssemblyInfo.cs
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.sourcelink.json
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.dll
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\refint\4. DateTimePicker.dll
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.pdb
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\4. DateTimePicker.genruntimeconfig.cache
+E:\C# Co Ban\4. DateTimePicker\obj\Debug\net8.0-windows\ref\4. DateTimePicker.dll

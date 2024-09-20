@@ -1,0 +1,15 @@
+E:\C# Co Ban\Bai20-LopKeThua\bin\Debug\net8.0\Bai20-LopKeThua.exe
+E:\C# Co Ban\Bai20-LopKeThua\bin\Debug\net8.0\Bai20-LopKeThua.deps.json
+E:\C# Co Ban\Bai20-LopKeThua\bin\Debug\net8.0\Bai20-LopKeThua.runtimeconfig.json
+E:\C# Co Ban\Bai20-LopKeThua\bin\Debug\net8.0\Bai20-LopKeThua.dll
+E:\C# Co Ban\Bai20-LopKeThua\bin\Debug\net8.0\Bai20-LopKeThua.pdb
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.AssemblyInfo.cs
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.sourcelink.json
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.dll
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\refint\Bai20-LopKeThua.dll
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.pdb
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\Bai20-LopKeThua.genruntimeconfig.cache
+E:\C# Co Ban\Bai20-LopKeThua\obj\Debug\net8.0\ref\Bai20-LopKeThua.dll

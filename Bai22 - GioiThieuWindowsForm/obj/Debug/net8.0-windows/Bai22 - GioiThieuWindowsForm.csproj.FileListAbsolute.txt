@@ -1,0 +1,17 @@
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\bin\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.exe
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\bin\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.deps.json
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\bin\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.runtimeconfig.json
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\bin\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.dll
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\bin\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.pdb
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.csproj.GenerateResource.cache
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.AssemblyInfoInputs.cache
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.AssemblyInfo.cs
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.sourcelink.json
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.dll
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\refint\Bai22 - GioiThieuWindowsForm.dll
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.pdb
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22 - GioiThieuWindowsForm.genruntimeconfig.cache
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\ref\Bai22 - GioiThieuWindowsForm.dll
+E:\C# Co Ban\Bai22 - GioiThieuWindowsForm\obj\Debug\net8.0-windows\Bai22___GioiThieuWindowsForm.frmMain.resources

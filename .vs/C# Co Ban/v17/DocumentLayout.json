@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\C# Co Ban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{314C249A-3FB6-4605-B705-9C4DEA7931CE}|4. DateTimePicker\\4. DateTimePicker.csproj|e:\\c# co ban\\4. datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314C249A-3FB6-4605-B705-9C4DEA7931CE}|4. DateTimePicker\\4. DateTimePicker.csproj|solutionrelative:4. datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\classtestparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\classtestparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|e:\\c# co ban\\bai19 - class\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5854235E-0202-4F43-AE86-3B034704E9CF}|Bai19 - Class\\Bai19 - Class.csproj|solutionrelative:bai19 - class\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{314C249A-3FB6-4605-B705-9C4DEA7931CE}|4. DateTimePicker\\4. DateTimePicker.csproj|e:\\c# co ban\\4. datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{314C249A-3FB6-4605-B705-9C4DEA7931CE}|4. DateTimePicker\\4. DateTimePicker.csproj|solutionrelative:4. datetimepicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\4. DateTimePicker\\Form1.cs",
+              "RelativeDocumentMoniker": "4. DateTimePicker\\Form1.cs",
+              "ToolTip": "E:\\C# Co Ban\\4. DateTimePicker\\Form1.cs",
+              "RelativeToolTip": "4. DateTimePicker\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:29:36.329Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KhachHang.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\KhachHang.cs",
-              "RelativeDocumentMoniker": "Bai19 - Class\\KhachHang.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\KhachHang.cs",
-              "RelativeToolTip": "Bai19 - Class\\KhachHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C# Co Ban\\4. DateTimePicker\\Form1.cs",
+              "RelativeDocumentMoniker": "4. DateTimePicker\\Form1.cs",
+              "ToolTip": "E:\\C# Co Ban\\4. DateTimePicker\\Form1.cs [Design]",
+              "RelativeToolTip": "4. DateTimePicker\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:57:54.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T15:16:24.394Z",
+              "EditorCaption": " [Design]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\Program.cs",
-              "RelativeDocumentMoniker": "Bai19 - Class\\Program.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\Program.cs",
-              "RelativeToolTip": "Bai19 - Class\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:15:16.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassTestParams.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\ClassTestParams.cs",
-              "RelativeDocumentMoniker": "Bai19 - Class\\ClassTestParams.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\ClassTestParams.cs",
-              "RelativeToolTip": "Bai19 - Class\\ClassTestParams.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:44:37.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\SanPham.cs",
-              "RelativeDocumentMoniker": "Bai19 - Class\\SanPham.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\SanPham.cs",
-              "RelativeToolTip": "Bai19 - Class\\SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T16:38:38.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\Bai19 - Class\\SinhVien.cs",
-              "RelativeDocumentMoniker": "Bai19 - Class\\SinhVien.cs",
-              "ToolTip": "E:\\C# Co Ban\\Bai19 - Class\\SinhVien.cs",
-              "RelativeToolTip": "Bai19 - Class\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T11:16:50.849Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

@@ -27,9 +27,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai15 - List", "Bai115 - Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai16 - Dictionary", "Bai16 - Dictionary\Bai16 - Dictionary.csproj", "{65B567CA-9FCB-42F0-877B-2525D202C606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai17-Project Thuc Te", "Bai17-Project Thuc Te\Bai17-Project Thuc Te.csproj", "{76154077-F242-47A2-953F-5011B64118EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai17-Project Thuc Te", "Bai17-Project Thuc Te\Bai17-Project Thuc Te.csproj", "{76154077-F242-47A2-953F-5011B64118EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai19 - Class", "Bai19 - Class\Bai19 - Class.csproj", "{5854235E-0202-4F43-AE86-3B034704E9CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai19 - Class", "Bai19 - Class\Bai19 - Class.csproj", "{5854235E-0202-4F43-AE86-3B034704E9CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai20-LopKeThua", "Bai20-LopKeThua\Bai20-LopKeThua.csproj", "{FF4D68F7-471B-4931-AF50-E3671733B519}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai21-ProjectThucTe", "Bai21-ProjectThucTe\Bai21-ProjectThucTe.csproj", "{199455CF-8796-403B-8EEA-7EB4C9EDE9BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai22 - GioiThieuWindowsForm", "Bai22 - GioiThieuWindowsForm\Bai22 - GioiThieuWindowsForm.csproj", "{D662FEEB-8308-4AD1-BF95-5046771F7092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Bài Tập Họ Tên", "1. Bài Tập Họ Tên\1. Bài Tập Họ Tên.csproj", "{228FB991-7CFC-41CC-88BF-A9B78F548E94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Formater App Excercise", "2. Formater App Excercise\2. Formater App Excercise.csproj", "{D7211952-D85D-4876-AA2C-568E1F962AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Turn Off Turn On Excercise", "3. Turn Off Turn On Excercise\3. Turn Off Turn On Excercise.csproj", "{DB981D12-1E85-4B56-9CD4-F66C23DB0348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. DateTimePicker", "4. DateTimePicker\4. DateTimePicker.csproj", "{314C249A-3FB6-4605-B705-9C4DEA7931CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +107,34 @@ Global
 		{5854235E-0202-4F43-AE86-3B034704E9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5854235E-0202-4F43-AE86-3B034704E9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5854235E-0202-4F43-AE86-3B034704E9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4D68F7-471B-4931-AF50-E3671733B519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4D68F7-471B-4931-AF50-E3671733B519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4D68F7-471B-4931-AF50-E3671733B519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4D68F7-471B-4931-AF50-E3671733B519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199455CF-8796-403B-8EEA-7EB4C9EDE9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199455CF-8796-403B-8EEA-7EB4C9EDE9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199455CF-8796-403B-8EEA-7EB4C9EDE9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199455CF-8796-403B-8EEA-7EB4C9EDE9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D662FEEB-8308-4AD1-BF95-5046771F7092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D662FEEB-8308-4AD1-BF95-5046771F7092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D662FEEB-8308-4AD1-BF95-5046771F7092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D662FEEB-8308-4AD1-BF95-5046771F7092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228FB991-7CFC-41CC-88BF-A9B78F548E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228FB991-7CFC-41CC-88BF-A9B78F548E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228FB991-7CFC-41CC-88BF-A9B78F548E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228FB991-7CFC-41CC-88BF-A9B78F548E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7211952-D85D-4876-AA2C-568E1F962AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7211952-D85D-4876-AA2C-568E1F962AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7211952-D85D-4876-AA2C-568E1F962AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7211952-D85D-4876-AA2C-568E1F962AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB981D12-1E85-4B56-9CD4-F66C23DB0348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB981D12-1E85-4B56-9CD4-F66C23DB0348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB981D12-1E85-4B56-9CD4-F66C23DB0348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB981D12-1E85-4B56-9CD4-F66C23DB0348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314C249A-3FB6-4605-B705-9C4DEA7931CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314C249A-3FB6-4605-B705-9C4DEA7931CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314C249A-3FB6-4605-B705-9C4DEA7931CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314C249A-3FB6-4605-B705-9C4DEA7931CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
