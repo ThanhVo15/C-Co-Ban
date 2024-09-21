@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03 Kiểu dữ liệu,Biến và biểu thức")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f8a924427bc509c1fd4e2f164405bcfe45b7d68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a894731494318819b91abe6332899b47e57ec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("03 Kiểu dữ liệu,Biến và biểu thức")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03 Kiểu dữ liệu,Biến và biểu thức")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

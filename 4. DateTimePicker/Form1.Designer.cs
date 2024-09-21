@@ -197,6 +197,7 @@
             txtTen.Name = "txtTen";
             txtTen.Size = new Size(200, 23);
             txtTen.TabIndex = 1;
+            txtTen.TextChanged += txtTen_TextChanged;
             // 
             // lblTen
             // 

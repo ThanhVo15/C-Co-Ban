@@ -1,0 +1,17 @@
+E:\C# Co Ban\5. ListBox Programming\bin\Debug\net8.0-windows\5. ListBox Programming.exe
+E:\C# Co Ban\5. ListBox Programming\bin\Debug\net8.0-windows\5. ListBox Programming.deps.json
+E:\C# Co Ban\5. ListBox Programming\bin\Debug\net8.0-windows\5. ListBox Programming.runtimeconfig.json
+E:\C# Co Ban\5. ListBox Programming\bin\Debug\net8.0-windows\5. ListBox Programming.dll
+E:\C# Co Ban\5. ListBox Programming\bin\Debug\net8.0-windows\5. ListBox Programming.pdb
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\_5._ListBox_Programming.frmListBox.resources
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.csproj.GenerateResource.cache
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.AssemblyInfoInputs.cache
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.AssemblyInfo.cs
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.sourcelink.json
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.dll
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\refint\5. ListBox Programming.dll
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.pdb
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\5. ListBox Programming.genruntimeconfig.cache
+E:\C# Co Ban\5. ListBox Programming\obj\Debug\net8.0-windows\ref\5. ListBox Programming.dll

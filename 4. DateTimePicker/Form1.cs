@@ -19,7 +19,7 @@ namespace _4._DateTimePicker
 
         private void btnDangKy_Click(object sender, EventArgs e)
         {
-            errorProvider1.SetError(txtTen,"");
+            errorProvider1.SetError(txtTen, "");
             if (txtTen.Text == "")
             {
                 errorProvider1.SetError(txtTen, "Ban can nhap thong tin!");
@@ -76,6 +76,11 @@ namespace _4._DateTimePicker
             {
                 Close();
             }
+        }
+
+        private void txtTen_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
