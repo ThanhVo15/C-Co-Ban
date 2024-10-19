@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "E:\\C# Co Ban\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|e:\\c# co ban\\6. listbox programming 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|solutionrelative:6. listbox programming 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|e:\\c# co ban\\6. listbox programming 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|solutionrelative:6. listbox programming 2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|e:\\c# co ban\\6. listbox programming 2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|solutionrelative:6. listbox programming 2\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|e:\\c# co ban\\6. listbox programming 2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13411D32-FE46-4400-9707-6E2298A637AC}|6. ListBox Programming 2\\6. ListBox Programming 2.csproj|solutionrelative:6. listbox programming 2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|e:\\c# co ban\\8. real life project\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98B2B3E3-5179-4E53-BB46-0C2CDA646824}|8. Real Life Project\\8. Real Life Project.csproj|solutionrelative:8. real life project\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}|7. Receipt Maker App\\7. Receipt Maker App.csproj|E:\\C# Co Ban\\7. receipt maker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}|7. Receipt Maker App\\7. Receipt Maker App.csproj|solutionrelative:7. receipt maker app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.cs",
-              "RelativeDocumentMoniker": "6. ListBox Programming 2\\Form1.cs",
-              "ToolTip": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.cs [Design]",
-              "RelativeToolTip": "6. ListBox Programming 2\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:09:55.341Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.cs",
-              "RelativeDocumentMoniker": "6. ListBox Programming 2\\Form1.cs",
-              "ToolTip": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.cs",
-              "RelativeToolTip": "6. ListBox Programming 2\\Form1.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFoAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmDanhMuc.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\frmDanhMuc.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\frmDanhMuc.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\frmDanhMuc.cs",
+              "RelativeToolTip": "8. Real Life Project\\frmDanhMuc.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA6wEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:09:02.804Z",
+              "WhenOpened": "2024-09-26T06:37:17.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "6. ListBox Programming 2\\Form1.Designer.cs",
-              "ToolTip": "E:\\C# Co Ban\\6. ListBox Programming 2\\Form1.Designer.cs",
-              "RelativeToolTip": "6. ListBox Programming 2\\Form1.Designer.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAswJ8AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\frmSanPham.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\frmSanPham.cs",
+              "RelativeToolTip": "8. Real Life Project\\frmSanPham.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:09:15.914Z",
+              "WhenOpened": "2024-09-26T06:19:21.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "E:\\C# Co Ban\\6. ListBox Programming 2\\SinhVien.cs",
-              "RelativeDocumentMoniker": "6. ListBox Programming 2\\SinhVien.cs",
-              "ToolTip": "E:\\C# Co Ban\\6. ListBox Programming 2\\SinhVien.cs",
-              "RelativeToolTip": "6. ListBox Programming 2\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\frmSanPham.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "8. Real Life Project\\frmSanPham.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T16:05:46.271Z",
+              "WhenOpened": "2024-09-26T06:19:18.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\SanPham.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\SanPham.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\SanPham.cs",
+              "RelativeToolTip": "8. Real Life Project\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:22:24.542Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\DanhMuc.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\DanhMuc.cs",
+              "RelativeToolTip": "8. Real Life Project\\DanhMuc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:22:08.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDanhMuc.cs [Design]",
+              "DocumentMoniker": "E:\\C# Co Ban\\8. Real Life Project\\frmDanhMuc.cs",
+              "RelativeDocumentMoniker": "8. Real Life Project\\frmDanhMuc.cs",
+              "ToolTip": "E:\\C# Co Ban\\8. Real Life Project\\frmDanhMuc.cs [Design]",
+              "RelativeToolTip": "8. Real Life Project\\frmDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:12:24.669Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\C# Co Ban\\7. Receipt Maker App\\Form1.cs",
+              "RelativeDocumentMoniker": "7. Receipt Maker App\\Form1.cs",
+              "ToolTip": "E:\\C# Co Ban\\7. Receipt Maker App\\Form1.cs [Design]",
+              "RelativeToolTip": "7. Receipt Maker App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:42:34.684Z"
             }
           ]
         }

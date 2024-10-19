@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6. ListBox Programming 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a894731494318819b91abe6332899b47e57ec2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c38ac60ae6d19decc15fc244cc85754a60760ead")]
 [assembly: System.Reflection.AssemblyProductAttribute("6. ListBox Programming 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6. ListBox Programming 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -45,9 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Turn Off Turn On Excerci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. DateTimePicker", "4. DateTimePicker\4. DateTimePicker.csproj", "{314C249A-3FB6-4605-B705-9C4DEA7931CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. ListBox Programming", "5. ListBox Programming\5. ListBox Programming.csproj", "{CBA929D5-CAF1-42BC-A42A-1DA1DC202696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. ListBox Programming", "5. ListBox Programming\5. ListBox Programming.csproj", "{CBA929D5-CAF1-42BC-A42A-1DA1DC202696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. ListBox Programming 2", "6. ListBox Programming 2\6. ListBox Programming 2.csproj", "{13411D32-FE46-4400-9707-6E2298A637AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. ListBox Programming 2", "6. ListBox Programming 2\6. ListBox Programming 2.csproj", "{13411D32-FE46-4400-9707-6E2298A637AC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Receipt Maker App", "7. Receipt Maker App\7. Receipt Maker App.csproj", "{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Real Life Project", "8. Real Life Project\8. Real Life Project.csproj", "{98B2B3E3-5179-4E53-BB46-0C2CDA646824}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +151,14 @@ Global
 		{13411D32-FE46-4400-9707-6E2298A637AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13411D32-FE46-4400-9707-6E2298A637AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13411D32-FE46-4400-9707-6E2298A637AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8705431-8D45-4859-8A8D-3A5AC2FDAF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B2B3E3-5179-4E53-BB46-0C2CDA646824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B2B3E3-5179-4E53-BB46-0C2CDA646824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B2B3E3-5179-4E53-BB46-0C2CDA646824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B2B3E3-5179-4E53-BB46-0C2CDA646824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

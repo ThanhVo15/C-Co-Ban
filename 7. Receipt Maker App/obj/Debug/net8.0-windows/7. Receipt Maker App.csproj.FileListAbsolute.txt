@@ -1,0 +1,17 @@
+E:\C# Co Ban\7. Receipt Maker App\bin\Debug\net8.0-windows\7. Receipt Maker App.exe
+E:\C# Co Ban\7. Receipt Maker App\bin\Debug\net8.0-windows\7. Receipt Maker App.deps.json
+E:\C# Co Ban\7. Receipt Maker App\bin\Debug\net8.0-windows\7. Receipt Maker App.runtimeconfig.json
+E:\C# Co Ban\7. Receipt Maker App\bin\Debug\net8.0-windows\7. Receipt Maker App.dll
+E:\C# Co Ban\7. Receipt Maker App\bin\Debug\net8.0-windows\7. Receipt Maker App.pdb
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\_7._Receipt_Maker_App.frmReceiptMaker.resources
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.csproj.GenerateResource.cache
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.AssemblyInfoInputs.cache
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.AssemblyInfo.cs
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.sourcelink.json
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.dll
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\refint\7. Receipt Maker App.dll
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.pdb
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\7. Receipt Maker App.genruntimeconfig.cache
+E:\C# Co Ban\7. Receipt Maker App\obj\Debug\net8.0-windows\ref\7. Receipt Maker App.dll

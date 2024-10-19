@@ -1,0 +1,18 @@
+E:\C# Co Ban\8. Real Life Project\bin\Debug\net8.0-windows\8. Real Life Project.exe
+E:\C# Co Ban\8. Real Life Project\bin\Debug\net8.0-windows\8. Real Life Project.deps.json
+E:\C# Co Ban\8. Real Life Project\bin\Debug\net8.0-windows\8. Real Life Project.runtimeconfig.json
+E:\C# Co Ban\8. Real Life Project\bin\Debug\net8.0-windows\8. Real Life Project.dll
+E:\C# Co Ban\8. Real Life Project\bin\Debug\net8.0-windows\8. Real Life Project.pdb
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.csproj.GenerateResource.cache
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.AssemblyInfoInputs.cache
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.AssemblyInfo.cs
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.csproj.CoreCompileInputs.cache
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.sourcelink.json
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.dll
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\refint\8. Real Life Project.dll
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.pdb
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\8. Real Life Project.genruntimeconfig.cache
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\ref\8. Real Life Project.dll
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\_8._Real_Life_Project.frmDanhMuc.resources
+E:\C# Co Ban\8. Real Life Project\obj\Debug\net8.0-windows\_8._Real_Life_Project.frmSanPham.resources
